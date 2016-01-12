@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/lrs/ReduxSimpleStarter.git",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server --hot --progress --colors --host 0.0.0.0"
   },
   "author": "LRS",
   "license": "ISC",
